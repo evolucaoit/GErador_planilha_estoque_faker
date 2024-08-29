@@ -1,4 +1,4 @@
-# 📊 GErador_planilha_estoque_faker
+# 📊 Gerador_planilha_estoque_faker
 
 **Autor**: [Elias Andrade](https://github.com/chaos4455e) | [LinkedIn](https://br.linkedin.com/in/itilmgf)
 
@@ -6,7 +6,7 @@
 
 ## 🌟 Visão Geral do Projeto
 
-O **GErador_planilha_estoque_faker** é um projeto desenvolvido para gerar dados fictícios de estoque de maneira eficiente e prática utilizando Python 🐍. Este repositório faz parte do meu portfólio 🎒 e reflete minha expertise em automação ⚙️, manipulação de dados 📊 e geração de dados sintéticos para diversas aplicações empresariais 🏢. Através deste projeto, demonstro como habilidades avançadas em programação e manipulação de dados podem ser aplicadas para criar soluções práticas e eficazes 🧠.
+O **Gerador_planilha_estoque_faker** é um projeto desenvolvido para gerar dados fictícios de estoque de maneira eficiente e prática utilizando Python 🐍. Este repositório faz parte do meu portfólio 🎒 e reflete minha expertise em automação ⚙️, manipulação de dados 📊 e geração de dados sintéticos para diversas aplicações empresariais 🏢. Através deste projeto, demonstro como habilidades avançadas em programação e manipulação de dados podem ser aplicadas para criar soluções práticas e eficazes 🧠.
 
 ---
 
@@ -88,5 +88,5 @@ O **GErador_planilha_estoque_faker** é um projeto desenvolvido para gerar dados
 
 ---
 
-Obrigado por visitar o repositório! 🚀 Para mais projetos e atualizações, acompanhe meu trabalho no [GitHub](https://github.com/chaos4455e) e conecte-se comigo no [LinkedIn](https://br.linkedin.com/in/itilmgf). 😃
+Obrigado por visitar o repositório! 🚀 Para mais projetos e atualizações, acompanhe meu trabalho no [GitHub](https://github.com/chaos4455) e conecte-se comigo no [LinkedIn](https://br.linkedin.com/in/itilmgf). 😃
 
