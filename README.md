@@ -9,7 +9,7 @@ Este projeto é uma **demonstração do meu domínio e expertise** em **Python**
 
 ### 🎯 Propósito do Projeto
 
-O **GErador_planilha_estoque_faker** foi criado para **mostrar minha habilidade em aplicar linguagens de programação para resolver problemas complexos** e multifacetados. 💡
+O **Gerador_planilha_estoque_faker** foi criado para **mostrar minha habilidade em aplicar linguagens de programação para resolver problemas complexos** e multifacetados. 💡
 
 - **🛠️ Solução Técnica**: Utilizando bibliotecas avançadas como `pandas`, `Faker` e `openpyxl`, este projeto ilustra minha capacidade de gerar dados fictícios realistas e manipulá-los eficientemente para criar planilhas de estoque complexas e úteis.
 - **💼 Aplicação Real**: As planilhas geradas são ideais para cenários de teste, simulação e análise de performance, refletindo minha habilidade em desenvolver soluções que podem ser aplicadas em ambientes empresariais reais.
