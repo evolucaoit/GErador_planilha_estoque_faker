@@ -3,6 +3,24 @@
 **Autor**: [Elias Andrade](https://github.com/chaos4455e) | [LinkedIn](https://br.linkedin.com/in/itilmgf)
 
 ---
+## 📝 Sobre o Autor e o Propósito do Projeto
+
+Este projeto é uma **demonstração do meu domínio e expertise** em **Python** e **manipulação de dados**. Sou Elias Andrade, um profissional apaixonado por tecnologia e inovação, com mais de 14 anos de experiência em infraestrutura de TI e automação. 🚀
+
+### 🎯 Propósito do Projeto
+
+O **GErador_planilha_estoque_faker** foi criado para **mostrar minha habilidade em aplicar linguagens de programação para resolver problemas complexos** e multifacetados. 💡
+
+- **🛠️ Solução Técnica**: Utilizando bibliotecas avançadas como `pandas`, `Faker` e `openpyxl`, este projeto ilustra minha capacidade de gerar dados fictícios realistas e manipulá-los eficientemente para criar planilhas de estoque complexas e úteis.
+- **💼 Aplicação Real**: As planilhas geradas são ideais para cenários de teste, simulação e análise de performance, refletindo minha habilidade em desenvolver soluções que podem ser aplicadas em ambientes empresariais reais.
+- **🔍 Problemas Multi-facetados**: Este projeto exemplifica minha abordagem para enfrentar desafios diversos, desde a geração de dados até a exportação para formatos complexos, sempre buscando otimizar e automatizar processos.
+
+Para ver mais do meu trabalho e entender como aplico conhecimento técnico em soluções práticas, confira [meu portfólio no GitHub](https://github.com/chaos4455e) e conecte-se comigo no [LinkedIn](https://br.linkedin.com/in/itilmgf). 🌟
+
+---
+
+Este micro projeto reflete a minha jornada e dedicação em criar soluções inovadoras e eficazes, mostrando a aplicação prática de habilidades técnicas em contextos desafiadores. 👨‍💻
+
 
 ## 🌟 Visão Geral do Projeto
 
